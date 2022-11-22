@@ -2,3 +2,4 @@
 relpit.nix
 .config/
 .upm/
+.git/
