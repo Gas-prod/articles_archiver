@@ -3,5 +3,5 @@ replit.nix
 .config/
 .upm/
 .git/
-node_modules/
+node_modules
 .env
